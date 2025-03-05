@@ -22,27 +22,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ewagurbowicz123/ewagurbowicz123/output/snake.svg" alt="Snake animation" />
-
-
-
-
-
-
-
-
-
-
-###
-
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/ewagurbowicz123/count.svg?"  />
 </div>
-
-
-
 
 ###
