@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Ewa and I'm a student, from Poland </h2>
 
 ###
 
@@ -26,9 +26,7 @@
 
 <img src="https://raw.githubusercontent.com/ewagurbowicz123/ewagurbowicz123/output/snake.svg" alt="Snake animation" />
 
-###
 
-<img src="https://raw.githubusercontent.com/ewagurbowicz123/ewagurbowicz123/output/snake.svg" alt="Snake animation" />
 
 
 
